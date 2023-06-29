@@ -1,5 +1,7 @@
 # templogger-db
 
+![cover image](https://raw.githubusercontent.com/arduinocelentano/templogger-db/main/intro.jpeg)
+
 These small devices are used to track the temperature of sensitive materials (like medicine, food etc.) during a transportation. They are usually single-use devises and considered to be e-waste as soon as a cargo container is delivered. Yes, imagine thousands of trucks all around the world delivering thousands of boxes with implanted little pieces of hardware destined to become a heap of e-waste just after few days of operating. I disassembled several samples and found out that some of them might be reprogrammed and repurposed with a little bit of reverse engineering.
 
 In average, what you get is a well-assembled power-optimized board with a genuine 32-bit Cortex M3 or M4 microcontroller, RTC, temperature sensor, a couple of buttons and LEDs, LCD screen and USB support. On some boards GPIO pins are accessible, so it might be possible to extend their capabilities. 
