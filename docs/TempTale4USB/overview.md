@@ -1,5 +1,7 @@
 # TempTale 4 USB
 
+![](temptale4_pinout.jpg)
+
 ## Official Specifications
 
 It was manufactured by [Sensitech](https://www.sensitech.com), a US supply chain visibility company. The exact model is TempTale 4 USB. The official info could be found [here](https://www.sensitech.com/en/media/T83001870_TT4_USB_MA_RevD_tcm878-133706.pdf).
