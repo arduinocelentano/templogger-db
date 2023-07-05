@@ -9,9 +9,10 @@ In average, what you get is a well-assembled power-optimized board with a genuin
 A brief database of temperature loggers repurposing capabilities
 For further details check out [this](https://hackaday.io/project/191592-arm-devboard-from-a-used-up-temperature-logger) project.
 
-| Model | Performance | Peripherals | Hackability | Officially reusable | Could be used as a devboard | MCU | LCD | External Flash | External EEPROM | Plastic Case | Battery | What else could be salvaged |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [TSS TempTracer Cradle 2](docs/TSS_TempTracer_Cradle_2/overview.md) | ★★★ | ★☆☆ | ★☆☆ | ❌ | Probably | [ATSAM4S16](https://www.microchip.com/en-us/product/atsam4s16b) | ❌ | ❌ | ❌ | Reusable | Coin cell | ❌ |
-| [Q-tag CLm doc](docs/Q-tag_CLm_doc/overview.md) | ★☆☆ | ★★☆ | ★★★ | ❌ | ✓ | [STM32L152RCT6A](https://eu.mouser.com/datasheet/2/389/stm32l151qc-1851375.pdf) | ✓ | ❌ | ❌ | Reusable | Coin cell | ❌ |
-| [ TempTale 4 USB](docs/TempTale4USB/overview.md) | ★★☆ | ★★★ | ★☆☆ | ❌ | Probably | [ATSAM4S4B](https://www.microchip.com/en-us/product/atsam4s4b) | ✓ | ATMLH414 | Winbond25x40 | Reusable | Lithium ER14250 | ❌ |
-| [TempTale Ultra](docs/TempTale_Ulrta/overview.md) | ★☆☆ | ★★☆ | ★★☆ | ❌ | ✓ | [STM32L152RCT6A](https://eu.mouser.com/datasheet/2/389/stm32l151qc-1851375.pdf) | ✓ | ❌ | Winbond25x40 | Reusable | Lithium coin cell | ❌ |
+| Model | Performance | Peripherals | Hackability|
+| --- | --- | --- | --- |
+| [TSS TempTracer Cradle 2](docs/TSS_TempTracer_Cradle_2/overview.md) | ★★★ [ATSAM4S16](https://www.microchip.com/en-us/product/atsam4s16b) | ★☆☆ None | ★☆☆ Maybe |
+| [Q-tag CLm doc](docs/Q-tag_CLm_doc/overview.md) | ★☆☆ [STM32L152RCT6A](https://eu.mouser.com/datasheet/2/389/stm32l151qc-1851375.pdf) | ★★☆ LCD | ★★★ Yes |
+| [ TempTale 4 USB](docs/TempTale4USB/overview.md) | ★★☆ [ATSAM4S4B](https://www.microchip.com/en-us/product/atsam4s4b) | ★★★ LCD, ATMLH414, Winbond25x40 | ★☆☆ Maybe |
+| [TempTale Ultra](docs/TempTale_Ulrta/overview.md) | ★☆☆ [STM32L152RCT6A](https://eu.mouser.com/datasheet/2/389/stm32l151qc-1851375.pdf) | ★★☆ [LCD](https://cdn.hackaday.io/files/1915928197072128/temptale-ultra_LCD.pdf), Winbond25x40 | ★★☆ [Yes](https://hackaday.io/project/189442-temptale-ultra-teardown-repurpose) |
+| Testo 184 T3 | ★★★ [MK40DN512VLK10](https://www.nxp.com/part/MK40DN512VLK10) | ★★☆  LCD, [adesto2106 25df321A](https://www.renesas.com/us/en/document/dst/at25df321a-datasheet) | ★☆☆ Maybe (but no point) |
