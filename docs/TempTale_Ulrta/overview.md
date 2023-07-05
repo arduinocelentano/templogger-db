@@ -22,7 +22,7 @@ Apparently it was not encouraging enough since people constantly sell used items
 ## Is it possible to use it as a devboard? 
 
 Definitely yes. There are pads on the PCB for standard SWD interfaceand some GPIO. Alternatively, you could salvage some useful items like Flash chip, battery and LCD. You might want to use LCD pads to
-solder some external modules. After writing this post I found out that [[zvodd]](https://hackaday.io/zvodd) even made a PlatformIO file for this board. Check out their [post](https://hackaday.io/project/189442-temptale-ultra-teardown-repurpose) for further details.
+solder some external modules. I found out that [[zvodd]](https://hackaday.io/zvodd) even made a PlatformIO file for this board. Check out their [post](https://hackaday.io/project/189442-temptale-ultra-teardown-repurpose) for further details.
 
 ## MCU 
 
@@ -30,7 +30,7 @@ Ultra-low-power [STM32L152RCT6](https://www.st.com/en/microcontrollers-microproc
 
 ## LCD 
 
-One line of 7-segment numbers and some additional segments. It has rubberconnector. [[muttonchopsjoe]](https://hackaday.io/muttonChopsJoe) carried out some research and shared LCD documentation. Many thanks! It was made for [TempTale Ultra Dry Ice](https://www.sensitech.com/en/media/TTUItra_Probeless_Dry_Ice_LS_1_2021_tcm878-133025.pdf), which is another modification of this logger. Have not tested yet, but it is very likely that all TempTale Ultras have similar LCDs.
+One line of 7-segment numbers and some additional segments. It has rubberconnector. [[muttonchopsjoe]](https://hackaday.io/muttonChopsJoe) carried out some research and shared [LCD documentation](temptale-ultra_LCD.pdf). Many thanks! It was made for [TempTale Ultra Dry Ice](https://www.sensitech.com/en/media/TTUItra_Probeless_Dry_Ice_LS_1_2021_tcm878-133025.pdf), which is another modification of this logger. Have not tested yet, but it is very likely that all TempTale Ultras have similar LCDs.
 
 ## External flash/EEPROM 
 
