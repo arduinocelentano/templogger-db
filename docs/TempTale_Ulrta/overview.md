@@ -1,3 +1,5 @@
+[⮬Contents](../../README.md)
+
 # TempTale Ultra
 
 ![](temptale-ultra-pinout.jpg)
@@ -43,3 +45,5 @@ It is secured with two screws and the board is attached to the upper part with a
 ## What else could be reused?
 
 Battery. Probably it is rechargeable, but the battery in my item was dead.
+
+[⮬Contents](../../README.md)
