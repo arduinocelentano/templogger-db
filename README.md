@@ -15,4 +15,4 @@ For further details check out [this](https://hackaday.io/project/191592-arm-devb
 | [Q-tag CLm doc](docs/Q-tag_CLm_doc/overview.md) | ★☆☆ [STM32L152RCT6A](https://eu.mouser.com/datasheet/2/389/stm32l151qc-1851375.pdf) | ★★☆ LCD | ★★★ Yes |
 | [ TempTale 4 USB](docs/TempTale4USB/overview.md) | ★★☆ [ATSAM4S4B](https://www.microchip.com/en-us/product/atsam4s4b) | ★★★ LCD, ATMLH414, Winbond25x40 | ★☆☆ Maybe |
 | [TempTale Ultra](docs/TempTale_Ulrta/overview.md) | ★☆☆ [STM32L152RCT6A](https://eu.mouser.com/datasheet/2/389/stm32l151qc-1851375.pdf) | ★★☆ [LCD](https://cdn.hackaday.io/files/1915928197072128/temptale-ultra_LCD.pdf), Winbond25x40 | ★★☆ [Yes](https://hackaday.io/project/189442-temptale-ultra-teardown-repurpose) |
-| Testo 184 T3 | ★★★ [MK40DN512VLK10](https://www.nxp.com/part/MK40DN512VLK10) | ★★☆  LCD, [adesto2106 25df321A](https://www.renesas.com/us/en/document/dst/at25df321a-datasheet) | ★☆☆ Maybe (but no point) |
+| [Testo 184 T3](docs/Testo-184-T3/overview.md) | ★★★ [MK40DN512VLK10](https://www.nxp.com/part/MK40DN512VLK10) | ★★☆  LCD, [adesto2106 25df321A](https://www.renesas.com/us/en/document/dst/at25df321a-datasheet) | ★☆☆ Maybe (but no point) |
