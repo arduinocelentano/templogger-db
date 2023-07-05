@@ -1,6 +1,6 @@
 # TempTale 4 USB
 
-![](temptale4_pinout.jpg)
+![](temptale4-pinout.jpg)
 
 ## Official Specifications
 
