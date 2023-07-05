@@ -1,5 +1,7 @@
 # Q-tag CLm doc
 
+![](qtag-pinout.jpg)
+
 ## Official Specifications
 
 These loggers are produced by [Berlinger](https://www.berlinger.com/), a Swiss company that delivers temperature monitoring solutions. There are several [modifications](https://www.manula.com/manuals/berlinger-co-ag/user-manual-q-tag-clm-doc-devices/3/en/topic/2-product-overview)
