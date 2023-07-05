@@ -9,7 +9,7 @@ In average, what you get is a well-assembled power-optimized board with a genuin
 A brief database of temperature loggers repurposing capabilities
 For further details check out [this](https://hackaday.io/project/191592-arm-devboard-from-a-used-up-temperature-logger) project.
 
-| Model | Performance | Peripherals | Hackability|
+| Model | Performance | Peripherals | Hackability (reuse as a devboard)|
 | --- | --- | --- | --- |
 | [TSS TempTracer Cradle 2](docs/TSS_TempTracer_Cradle_2/overview.md) | ★★★ [ATSAM4S16](https://www.microchip.com/en-us/product/atsam4s16b) | ★☆☆ None | ★☆☆ Maybe |
 | [Q-tag CLm doc](docs/Q-tag_CLm_doc/overview.md) | ★☆☆ [STM32L152RCT6A](https://eu.mouser.com/datasheet/2/389/stm32l151qc-1851375.pdf) | ★★☆ LCD | ★★★ Yes |
