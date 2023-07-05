@@ -1,5 +1,7 @@
 # TempTale Ultra
 
+![](temptale-ultra-pinout.jpg)
+
 ## Official Specifications
 
 It was manufactured by [Sensitech](https://www.sensitech.com), a US supply chain visibility company. The exact model is TempTale Ultra. The official info could be found [here](https://www.sensitech.com/en/media/TTUItra_LS_060820_Web_tcm878-133104.pdf).
