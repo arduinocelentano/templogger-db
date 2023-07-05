@@ -1,4 +1,8 @@
+[⮬Contents](../../README.md)
+
 # Testo 184 T3
+
+![](testo184t3-pinout.jpg)
 
 ## Official Specifications
 
@@ -23,6 +27,8 @@ It gives you one line of 7-segment numbers and some additional segments. It has 
 
 ## External flash/EEPROM
 [adesto2106 25df321A](https://www.renesas.com/us/en/document/dst/at25df321a-datasheet) serial flash memory chip.
+
+[⮬Contents](../../README.md)
 
 ## Plastic Case
 It is apparently the same as in a single-use model. It is glued together, so you could not even replace the battery without vandalizing it. A weird solution for a reusable device.
